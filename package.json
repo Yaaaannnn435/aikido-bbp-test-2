@@ -1,0 +1,7 @@
+{
+    "name": "aikido-bbp-test-2",
+    "version": "1.0.0",
+    "dependencies": {
+          "minimist": "1.2.5"
+    }
+}
